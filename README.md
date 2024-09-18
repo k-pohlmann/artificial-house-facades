@@ -1,1 +1,4 @@
-# artificial-house-facades
+# Artificial Houses Facades in Environmental Psychology
+
+## Artificial House Facades - Reverse Correlation Task
+We applied the Reverse Correlation (RC) task to house facades by utilizing a generative adversarial network (GAN) to create the base image for the task. We trained [StyleGAN2-ADA](https://github.com/NVlabs/stylegan2-ada-pytorch) on a dataset consistng of images of house facades. We curated the dataset "CalHouses" from two deep learning datasets for house price estimation: the [Houses Dataset](https://github.com/emanhamed/Houses-dataset) (https://arxiv.org/pdf/1609.08399.pdf) and [SoCal dataset](https://www.kaggle.com/datasets/ted8080/house-prices-and-images-socal). References for the used images can be found in the folder "reverse correlation house facades". The base image for the RC task, created by the GAN can be found in the same folder. Further information can be found in our paper [When houses wear faces: Reverse correlation applied to architectural design](https://doi.org/10.1016/j.jenvp.2024.102401).
