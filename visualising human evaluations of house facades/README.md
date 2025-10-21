@@ -21,8 +21,8 @@ Please note that each dataset folder contains folders "part1" and "part2". This 
 The model weights for each dimensions can be downloaded here:
 
 * [Hominess](https://drive.google.com/file/d/1CSUfH5PLMeoLzGmtAiWLvYbtug-OLYbm/view?usp=sharing)
-* [Invitingness]()
-* [Relaxation]()
-* [Safety]()
-* [Perceived price]()
+* [Invitingness](https://drive.google.com/file/d/1Jj5GVNHkMtQisJIwTz4zQ3Bx2tkIe9qR/view?usp=sharing)
+* [Relaxation](https://drive.google.com/file/d/1Vf0VSk1GsmJp7xmrRtnumwvvXjbjFmT9/view?usp=sharing)
+* [Safety](https://drive.google.com/file/d/1QigHGnc6Ecd1fe0ILYXx87VqdvXYIDXn/view?usp=sharing)
+* [Perceived price](https://drive.google.com/file/d/1yExyuNnYmsi0Wu2ngFyz3HfumKmPOiSo/view?usp=sharing)
 * [Actual price](https://drive.google.com/file/d/1O_wIKuNNj_qPtHQB6SI-IlLHoZwfXAuD/view?usp=sharing)
