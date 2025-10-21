@@ -10,3 +10,5 @@ Each dimensions was split into four class ceatgories, representing the dimension
 | **Price** | cheap | rather cheap | rather expensive | expensive |
 
 We generated a dataset for each dimension, with 500 images per class category, resulting in 2000 images per dataset. The class category an image is supposed to represent (as determined by the GAN) is shown in the file name. A file from the dataset of hominess with class0 indicates that this file is supposed to show a not homey house.
+
+Please note that each dataset folder contains folders "part1" and "part2". This is due to the fact that github omitts files, if a folder contains more than 1000 files. The dataset is only complete if "part1" and "part2" are considered together.
