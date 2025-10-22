@@ -15,6 +15,7 @@ We generated a dataset for each dimension, with 500 images per class category, r
 
 Please note that each dataset folder contains folders "part1" and "part2". This is due to the fact that github omitts files, if a folder contains more than 1000 files. The dataset is only complete if "part1" and "part2" are considered together.
 
+Each dataset folder further holds a csv file with participants' ratings on the artificial datasets, which were collected in an online study. Each image was rated on a 0-100 visual analogue scale by 10-12 participants. The provided rating is an average across all responses. Please view our article for more information about the online study.
 
 ## Model Weights
 
